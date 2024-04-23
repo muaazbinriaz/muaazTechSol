@@ -1,2 +1,3 @@
 # muaazTechSol
-This is our git Repository.
+This is our Git Repository.
+
